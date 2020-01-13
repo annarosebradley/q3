@@ -1,0 +1,21 @@
+body{
+	background-color: #4C4053;
+}
+h1{
+	color: #FF6B6B;
+	border-bottom: 2px dashed white;
+	text-align: center;
+}
+ol{
+	border: 3px #4ECDC4 solid;
+	color: white
+}
+.question{
+	color: #ED8F1F;
+}
+img{
+	border: 3px white solid;
+}
+h2{
+	color: white
+}
