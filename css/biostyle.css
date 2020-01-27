@@ -1,12 +1,36 @@
+.wrapper{
+	max-width: 80%;
+	margin: 0 auto;
+	background-color: #95E2FF;
+	padding: 30px;
+	border: 3px black solid;
+}
+section{
+	padding: 10px;
+	margin: 10px;
+}
+.section1{
+	background-color: #C48AFF;
+}
+.activities{
+	background-color: #FF9E9E;
+}
+.travel{
+	background-color: #AAFF9E;
+}
+.future{
+	background-color: #9EAAFF;
+}
 h1{
-	color: #13EFA5;
+	color: #FF0F0F;
 	text-align: center;
 }
 h2{
 	color: #1331EF;
 }
+
 h3{
-	color: #C013EF;
+	color: #0020FF;
 }
 h4{
 	color: #F7940C;
@@ -15,11 +39,11 @@ h5{
 	color: #FF5D74;
 }
 body{
-	color: #39CF44;
+	background-color: #FFD68A;
 }
 img{
 	border:3px #FD0000 solid;
 }
-.childhoodpara {
-	color: purple;
-} 
+footer{
+	text-align: center;
+}

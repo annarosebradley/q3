@@ -1,0 +1,38 @@
+body{
+	background-color: #DADADA;
+}
+h1{
+	color: #B84747;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.original{
+	float: left;
+	width: 50%;
+}
+.symphonysoldier{
+	float: left;
+	width: 50%;
+}
+.clearfix:after {
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+.wrapper{
+	max-width: 80%;
+	margin: 0 auto;
+	background-color: #CACDE3;
+	padding: 30px;
+}
+section{
+	margin: 10px;
+	padding: 10px;
+}
+.about{
+	background-color: #A2D9CE;
+}
