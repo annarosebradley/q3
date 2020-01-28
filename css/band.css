@@ -1,3 +1,9 @@
+.wrapper{
+	max-width: 80%;
+	margin: 0 auto;
+	background-color: #CACDE3;
+	padding: 30px;
+}
 body{
 	background-color: #DADADA;
 }
@@ -8,14 +14,6 @@ h1{
 h2{
 	text-align: center;
 }
-.original{
-	float: left;
-	width: 50%;
-}
-.symphonysoldier{
-	float: left;
-	width: 50%;
-}
 .clearfix:after {
 	content: "";
 	visibility: hidden;
@@ -23,11 +21,26 @@ h2{
 	height: 0;
 	clear: both;
 }
-.wrapper{
-	max-width: 80%;
-	margin: 0 auto;
-	background-color: #CACDE3;
-	padding: 30px;
+
+.original{
+	float: left;
+	max-width: 30%;
+}
+.symphonysoldier{
+	float: left;
+	max-width: 30%;
+}
+.thecab{
+	float: left;
+	max-width: 40%;
+}
+.logo{
+	float: left;
+	max-width: 30%;
+}
+.ian{
+	float: left;
+	max-width: 90%;
 }
 section{
 	margin: 10px;
@@ -35,4 +48,10 @@ section{
 }
 .about{
 	background-color: #A2D9CE;
+}
+.fame{
+	background-color: #D8ACAC;
+}
+.band{
+	background-color: #A5CAA4;
 }
