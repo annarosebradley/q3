@@ -1,0 +1,74 @@
+.wrapper{
+	background-color: #61605e;
+	border: #AA0000 solid;
+	max-width: 80%;
+	margin: 0 auto;
+}
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}
+.chiefs{
+	margin-top: 30px;
+	background-color: #E31837;
+}
+.super{
+	max-width: 100%;
+	float: both;
+	margin-top: 30px #E31837;
+	background-color: #E31837;
+}
+.bubble{
+	background-color: #AA0000;
+}
+.george{
+	max-width: 50%;
+	border: black solid 3px;
+	float: left;
+}
+.history{
+	background-color: #AA0000;
+	margin-left: 400px;
+
+}
+.montana{
+	background-color: black;
+}
+.joe{
+	max-width: 40%;
+	border: white solid 3px;
+	float: right;
+}
+.sugar{
+	color: #AA0000;
+}
+body{
+	padding: 60px;
+
+}
+p{
+	padding: 20px;
+}
+h1{
+	text-align: center;
+	font-size: 86px;
+	background-color: #AA0000;
+	color: white;
+}
+h2{
+	font-size: 45px;
+	text-align: center;
+	background-color: #B3995D;
+}
+h3{
+	font-size: 25px;
+	text-transform: italic;
+	color: #AA0000;
+	background-color: #B3995D;
+}
+.foot{
+	
+}

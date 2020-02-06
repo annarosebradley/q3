@@ -1,0 +1,85 @@
+*{
+	margin:  0;
+	padding: 0;
+}
+.wrapper{
+	max-width: 90%;
+	margin: 0 auto;
+}
+h1{
+	color: blue;
+	font-size: 84px;
+	text-align: center;
+}
+li{
+	list-style: none;
+	text-align: center;
+	background-color: blue;
+	margin: 30px;
+	padding: 10px;
+	text-transform: uppercase;
+	display: inline;
+}
+
+nav{
+	border-bottom: 3px black solid;
+	padding-bottom: 10px;
+	text-align: center;
+}
+a{
+	color: white
+}
+a:hover{
+	font-size: 48px;
+	color: orange;
+}
+a:visited{
+	color: black;
+}
+.minecraft{
+	background-color: blue;
+}
+.youtube{
+	background-color: blue;
+	text-align: center;
+}
+.xbox{
+	background-color: blue;
+}
+h2{
+	color: blue;
+	font-size: 42px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+section{
+	background-color: gray;
+	padding: 20px;
+	margin: 20px;
+}
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}
+.class{
+	float: left;
+	clear: left;
+	width: 30%;
+}
+.announce{
+	margin-left: 400px;
+	margin-right: 400px;
+}
+.mine{
+	float: right;
+	clear: right;
+	width: 30%;
+}
+footer{
+	background-color: blue;
+	text-align: center;
+	color: white;
+}

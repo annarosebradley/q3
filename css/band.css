@@ -42,6 +42,10 @@ h2{
 	float: left;
 	max-width: 90%;
 }
+.cash{
+	float: left;
+	max-width: 30%;
+}
 section{
 	margin: 10px;
 	padding: 10px;

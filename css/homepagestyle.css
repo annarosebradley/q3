@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+	color: #FFB447;
+}
+.wrapper{
+	background-color: #332E73;
+	max-width: 80%;
+	margin: 0 auto;
+}
+.clearfix:after {
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+.bio{
+	max-width: 50%;
+	float: left;
+}
+a{
+	color: #FFFFFF;
+}
