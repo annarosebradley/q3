@@ -2,6 +2,10 @@ h1{
 	text-align: center;
 	color: #FFB447;
 }
+img{
+	max-width: 50%;
+	float: left;
+}
 .wrapper{
 	background-color: #332E73;
 	max-width: 80%;
@@ -13,10 +17,6 @@ h1{
 	display: block;
 	height: 0;
 	clear: both;
-}
-.bio{
-	max-width: 50%;
-	float: left;
 }
 a{
 	color: #FFFFFF;
