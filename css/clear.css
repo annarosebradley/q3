@@ -1,0 +1,18 @@
+section{
+	background-color: #FF0000;
+}
+.clearfix:after{
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+article{
+	background-color: #003EFF;
+	padding: 10px;
+	color: #FFFFFF;
+}
+img{
+	float: left;
+}

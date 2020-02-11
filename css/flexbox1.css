@@ -6,7 +6,6 @@ li{
 	margin: 10px;
 	line-height: 75px;
 	font-size: 30px;
-
 }
 article{
 	background-color: blue;
@@ -14,4 +13,7 @@ article{
 .wrapper{
 	max-width: 90%;
 	margin: 0 auto;
+}
+.rowreverse{
+	flex-wrap: row-reverse;
 }
