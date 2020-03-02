@@ -1,0 +1,56 @@
+body{
+	background-color: #EBEBEB;
+}
+.wrapper{
+	margin: 0 auto;
+}
+ul{
+	list-style: none;
+}
+.top{
+	text-align: center;
+	margin: 0 auto;
+}
+.food{
+	max-width: 90%;
+}
+.clearfix:after{
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+.flex{
+	display: flex;
+	margin: auto;
+	justify-content: space-between;
+}
+.second{
+	width: 25%;
+	border: 1px solid #000000;
+	padding: 2px;
+}
+.heading{
+	text-align: center;
+	font-size: 30px;
+}
+.third{
+	width: 65%;
+	padding: 10px;
+}
+.rainbow{
+	background-color: #FFA1A1;
+}
+.bell{
+	background-color: #FFA1A1;
+}
+.step{
+	padding: 5px;
+	margin: black solid 1px;
+}
+.image{
+	float: right;
+	clear: right;
+	max-width: 40%;
+}
